@@ -1,1 +1,1 @@
-Wooow! Just something new for me! =)
+Wow, somnething new for me!
