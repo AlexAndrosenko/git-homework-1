@@ -1,0 +1,10 @@
+let str = "just string";
+let num = 777;
+let bool = true;
+let nullValue = null;
+let undVal = undefined;
+console.log(str);
+console.log(num);
+console.log(bool);
+console.log(nullValue);
+console.log(undVal);
