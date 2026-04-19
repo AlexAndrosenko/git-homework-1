@@ -1,7 +1,7 @@
 function printText(text, delay) {
     setTimeout(() => {
-        console.log(text);
-    }, delay);
+        console.log(text)
+    }, delay)
 }
 
-printText("Hello", 1000);
+printText('Hello', 1000)
