@@ -19,10 +19,11 @@
         "prepare": "husky",
         "prettier": "npx prettier --write .",
         "postinstall": "husky"
-
     },
     "dependencies": {
-        "chalk": "^5.6.2"
+        "axios": "^1.15.2",
+        "chalk": "^5.6.2",
+        "jest": "^30.3.0"
     },
     "devDependencies": {
         "@eslint/js": "^10.0.1",
