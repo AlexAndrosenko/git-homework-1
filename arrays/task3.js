@@ -1,5 +1,5 @@
-const numbers = [10, 20, 30, 40, 50];
-const arraySum = numbers.reduce(function(accumulator, currentValue) {
-    return accumulator + currentValue;
-}, 0);
-console.log(arraySum);
+const numbers = [10, 20, 30, 40, 50]
+const arraySum = numbers.reduce(function (accumulator, currentValue) {
+    return accumulator + currentValue
+}, 0)
+console.log(arraySum)
